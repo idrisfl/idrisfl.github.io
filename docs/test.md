@@ -1,4 +1,16 @@
 ---
+title: "Test"
+permalink: /test.md
+excerpt: "Hello World test"
+last_modified_at: 2021-05-11T10:40:42-04:00
+toc: true
+---
+
+## Hello World markdown file
+
+### This is a test file for jekyll
+
+---
 name: "Bug Report"
 about: "Is something not working as expected?"
 ---
