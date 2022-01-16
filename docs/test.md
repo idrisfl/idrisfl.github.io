@@ -28,7 +28,6 @@ about: "Is something not working as expected?"
   file, or problematic site content. 
 -->
 
-- Minimal Mistakes version:
 - Ruby gem or remote theme version:
 - Jekyll version:
 - Git repository URL:
